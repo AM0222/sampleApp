@@ -10,20 +10,22 @@
 sampleApp.prototype = {
     initialize: function() {
     },
-
+	newfunction : function(){
+		
+	},
     type: 'sampleApp'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-10 01:35:54</sys_created_on>
         <sys_id>8480e006db99b3009ade9c66db961929</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>sampleApp</sys_name>
         <sys_package display_value="sampleApp" source="x_238018_sampleapp">cc4ed082db99b3009ade9c66db961940</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="sampleApp">cc4ed082db99b3009ade9c66db961940</sys_scope>
         <sys_update_name>sys_script_include_8480e006db99b3009ade9c66db961929</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-10 01:35:54</sys_updated_on>
+        <sys_updated_on>2019-05-10 01:54:13</sys_updated_on>
     </sys_script_include>
 </record_update>
