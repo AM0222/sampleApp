@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="sampeApp" language="en" table="x_238018_sampleapp_sampeapp">
+    <sys_documentation element="colomun2" label="Colomun2" language="en" table="x_238018_sampleapp_sampeapp">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>colomun2</element>
             <help/>
             <hint/>
-            <label>sampeApp</label>
+            <label>Colomun2</label>
             <language>en</language>
             <name>x_238018_sampleapp_sampeapp</name>
-            <plural>sampeApps</plural>
+            <plural>Colomun2s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-10 01:34:22</sys_created_on>
-            <sys_id>b414b88bdbd177009ade9c66db961928</sys_id>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2019-05-13 07:58:18</sys_created_on>
+            <sys_id>36d49d07db5577009ade9c66db96196f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>sampeApp</sys_name>
+            <sys_name>Colomun2</sys_name>
             <sys_package display_value="sampleApp" source="x_238018_sampleapp">cc4ed082db99b3009ade9c66db961940</sys_package>
             <sys_policy/>
             <sys_scope display_value="sampleApp">cc4ed082db99b3009ade9c66db961940</sys_scope>
-            <sys_update_name>sys_documentation_x_238018_sampleapp_sampeapp__en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-10 01:34:22</sys_updated_on>
+            <sys_update_name>sys_documentation_x_238018_sampleapp_sampeapp_colomun2_en</sys_update_name>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2019-05-13 07:58:18</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

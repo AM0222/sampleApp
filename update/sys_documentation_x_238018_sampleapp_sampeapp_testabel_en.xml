@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="sampeApp" language="en" table="x_238018_sampleapp_sampeapp">
+    <sys_documentation element="testabel" label="testAbel" language="en" table="x_238018_sampleapp_sampeapp">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>testabel</element>
             <help/>
             <hint/>
-            <label>sampeApp</label>
+            <label>testAbel</label>
             <language>en</language>
             <name>x_238018_sampleapp_sampeapp</name>
-            <plural>sampeApps</plural>
+            <plural>testAbels</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-10 01:34:22</sys_created_on>
-            <sys_id>b414b88bdbd177009ade9c66db961928</sys_id>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2019-05-13 04:13:57</sys_created_on>
+            <sys_id>1c81648fdb9177009ade9c66db961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>sampeApp</sys_name>
+            <sys_name>testAbel</sys_name>
             <sys_package display_value="sampleApp" source="x_238018_sampleapp">cc4ed082db99b3009ade9c66db961940</sys_package>
             <sys_policy/>
             <sys_scope display_value="sampleApp">cc4ed082db99b3009ade9c66db961940</sys_scope>
-            <sys_update_name>sys_documentation_x_238018_sampleapp_sampeapp__en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-10 01:34:22</sys_updated_on>
+            <sys_update_name>sys_documentation_x_238018_sampleapp_sampeapp_testabel_en</sys_update_name>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2019-05-13 04:13:57</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

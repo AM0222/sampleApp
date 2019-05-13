@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="sampeApp" max_length="40" name="x_238018_sampleapp_sampeapp" type="collection"/>
+    <element extends="task" label="sampeApp" max_length="40" name="x_238018_sampleapp_sampeapp" type="collection">
+        <element label="colomun2" max_length="80" name="colomun2" type="string"/>
+        <element label="testAbel" max_length="40" name="testabel" type="string"/>
+    </element>
 </database>
